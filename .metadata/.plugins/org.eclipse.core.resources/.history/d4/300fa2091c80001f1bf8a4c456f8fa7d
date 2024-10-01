@@ -1,0 +1,10 @@
+package ejerciciosEjemplo;
+
+public class Sumador {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
