@@ -15,7 +15,8 @@ public class ExportarAFile {
 		try (InputStreamReader ipsr = new InputStreamReader(System.in, Charset.forName("UTF-8"));
 		BufferedReader bReader = new BufferedReader(ipsr);
 		
-		FileWriter fw = new FileWriter(new File("ExportarAFile.txt"));
+				
+		FileWriter fw = new FileWriter(new File("..\\"+args[0]));
 		BufferedWriter bWriter = new BufferedWriter(fw)) {
 			String lineString = "";
 			do {
