@@ -1,0 +1,1 @@
+Suma del intervalo [18, 22]: 100

@@ -1,0 +1,1 @@
+Suma del intervalo [1, 6]: 21

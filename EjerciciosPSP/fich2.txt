@@ -1,0 +1,1 @@
+Suma del intervalo [7, 12]: 57
