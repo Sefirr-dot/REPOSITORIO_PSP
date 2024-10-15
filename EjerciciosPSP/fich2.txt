@@ -1,1 +1,1 @@
-Suma del intervalo [7, 12]: 57
+Numero de ocurrencias de la vocal 'a': 2
