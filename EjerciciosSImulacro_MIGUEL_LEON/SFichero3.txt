@@ -1,0 +1,12 @@
+Di el nombre del alumno
+
+Di su edad
+Di el nombre del alumno
+
+Di su edad
+Di el nombre del alumno
+
+Di su edad
+Di el nombre del alumno
+Numero de alumnos leidos: 3
+El alumno con mas edad es: Miguel y el que menos es: Luisa

@@ -1,0 +1,7 @@
+Pedro
+30
+Luisa
+25
+Miguel
+40
+*

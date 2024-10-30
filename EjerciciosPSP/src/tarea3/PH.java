@@ -35,5 +35,25 @@ public class PH {
          System.out.println("Error: Fecha inválida. Asegúrese de usar el formato dd/mm/yyyy");
          System.exit(1);
      }
+     
+     /*
+      * File paFile = new File(".\\bin\\");
+         // Ejecutar PH (el proceso hijo) en el mismo paquete mypackage
+         Process pb = new ProcessBuilder("java", "tarea2.PH", String.valueOf(N), String.valueOf(M)).redirectErrorStream(true).directory(paFile).start();
+         
+
+         // Capturar la salida del proceso hijo (PH)
+         BufferedReader reader = new BufferedReader(new InputStreamReader(pb.getInputStream()));
+         StringBuilder output = new StringBuilder();
+         String line;
+
+         // Leer la salida del proceso hijo y almacenarla
+         while ((line = reader.readLine()) != null) {
+             output.append(line).append("\n");
+         }
+
+         // Esperar a que el proceso hijo termine
+         pb.waitFor();
+      */
  }
 }

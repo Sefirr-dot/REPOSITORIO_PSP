@@ -1,0 +1,7 @@
+Carlos
+100
+Ana
+8
+Luis
+abcd
+*
