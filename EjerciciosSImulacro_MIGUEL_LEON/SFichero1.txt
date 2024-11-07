@@ -1,9 +1,0 @@
-Di el nombre del alumno
-
-Di su edad
-Di el nombre del alumno
-
-Di su edad
-Di el nombre del alumno
-Numero de alumnos leidos: 2
-El alumno con mas edad es: Juan y el que menos es: María
