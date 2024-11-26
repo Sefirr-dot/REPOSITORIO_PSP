@@ -7,6 +7,6 @@ public class holaMundo_Runnable {
 		new hiloHola_Runnable();
 		System.out.println("Hola desde el hilo principal!");
 		System.out.println("Proceso principal finalizado.");
-		new Coche_ejem
+
 	}
 }
