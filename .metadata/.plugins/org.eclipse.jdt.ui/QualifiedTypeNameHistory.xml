@@ -17,7 +17,6 @@
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
@@ -25,10 +24,17 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="n1.Coche_ejem3"/>
     <fullyQualifiedTypeName name="n2.EjemplosClase"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="n2.hiloPrioridad"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="n2.TMethodsPriorityPrincipal2"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="n4.Barberos"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="ejercicioTipoExamen.Hilo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="ejercicioTipoExamen2.Acumula"/>
+    <fullyQualifiedTypeName name="ejercicioTipoExamen2.Hilo"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
