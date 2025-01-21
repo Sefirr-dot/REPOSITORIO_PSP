@@ -3,12 +3,12 @@ package ejercicioTipoExamen;
 public class Hilo extends Thread {
 
 	private String nombreString;
-	private boolean activo;
+	
 
 	public Hilo(String nombreString) {
 		super();
 		this.nombreString = nombreString;
-		this.activo = true;
+		
 	}
 
 
