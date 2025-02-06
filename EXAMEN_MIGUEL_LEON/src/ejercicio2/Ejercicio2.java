@@ -32,6 +32,7 @@ public class Ejercicio2 extends Thread {
 	@Override
 	public void run() {
 		for(int i=1;i<25;i++) {
+			System.out.println("Atendiendo al alumno "+i);
 			try {
 				atender();
 			} catch (InterruptedException e) {
